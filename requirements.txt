@@ -2,4 +2,4 @@ discord.py
 transformers
 nest-asyncio
 pandas
---find-links https://download.pytorch.org/whl/torch_stable.html
+tensorflow-cpu
