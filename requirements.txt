@@ -2,3 +2,4 @@ discord.py
 transformers
 nest-asyncio
 pandas
+TensorFlow 2.0
