@@ -146,7 +146,7 @@ bot = commands.Bot(command_prefix='!')
 
 
 
-classifier = pipeline("text-classification",model='bhadresh-savani/bert-base-go-emotion')
+#classifier = pipeline("text-classification",model='bhadresh-savani/bert-base-go-emotion')
 
    
 def getEmotion(message):
