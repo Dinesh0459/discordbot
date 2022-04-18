@@ -1,12 +1,9 @@
-import joblib
 import os
 import os.path
 from os import path
 import discord
 import pandas as pd
-from transformers import AutoTokenizer, AutoModelForSequenceClassification
 from transformers import pipeline
-from discord.ext import commands
 from discord.ext import commands
 
 
